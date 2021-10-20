@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    margin: 0%;
+}
+header{
+    text-align: center;
+    background-color: lightskyblue;
+    height: 120px;
+    width: 70%;
+    margin: auto;
+    padding-top: 15px;
+}
+h2{
+    margin:auto;
+}
+h1{
+    margin-bottom: 5px;
+}
+.button{
+    width: 90px;
+    height: 30px;
+    background-color: lightskyblue;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 15px;
+
+}
+.button:hover{
+    background:linear-gradient(to bottom, lightskyblue 5%, #E4F6F6 100%);
+	background-color: lightskyblue;
+}
+#Bag{
+    width: 550px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.inLineList{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    text-align: left;
+    margin-top: 20px;
+}
+ol{
+    font-size: 20px;
+    text-align: left;
+}
+label{
+    font-size: 20px;
+    text-align: left;
+}
+input{
+    font-size: 20px;
+    text-align: left;
+}
+#bagInput{
+    width: 40px;
+    text-align: left;
+
+}

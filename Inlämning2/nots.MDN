@@ -1,0 +1,19 @@
+Inlämningsuppgift #2 - Digitalt kösystem (IG/G)
+
+Din uppgift är att ansvara för ett kösystem för incheckning av bagage på Arlanda flygplats. Skapa ett verktyg som hjälper dig visualisera och hålla reda på kön.
+
+Kravställning
+
+1.När webbapplikationen laddas ska kön vara tom. ---Klar
+2.Det ska finnas en lista med samtliga personer i kön samt vilken plats i kön personen har.--klar
+3.Du ska kunna skriva in en persons namn, och med ett knapptryck placera kunden sist i kön. --klar
+4.Det ska finnas en Fast Track-knapp, som placerar personen längst fram i kön.--klar
+5.När en person har checkat in, ska det gå att klicka på en knapp för att ta bort den första personen i kön.--klar
+6.Om kön är tom, skriv ut meddelandet “There’s currently no people standing in line” på sidan.
+
+Inlämning senast 22/10
+
+Inlämnings ska ske i form av en .zip-fil som innehåller all din kod, alternativt en länk till Github-repo.
+
+Lycka till!
+B
