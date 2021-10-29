@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    background-color: rgb(225, 239, 250);
+}
+body.dark-mode {
+    background-color: black;
+    color: white;
+  }
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: cornflowerblue;
+    margin: 40px;
+    border-radius: 10px;
+}
+button:hover{
+    background:linear-gradient(to bottom, cornflowerblue 5%, #E4F6F6 100%);
+}
+#Quiz{
+    height: 300px;
+    
+}
+p{
+    width: 50%;
+    height: auto;
+    display: inline;
+}
+header{
+    background-image: url(https://insidethemagic.net/wp-content/uploads/2020/06/Sounds-of-Disneyland-800x400.png);
+    width: auto;
+    height: 300px;
+}
+
+h1{
+    display: inline;
+    font-size: 45px;
+    position: relative;
+    left: 80px;
+    
+}
+h2{
+    color: rgb(39, 123, 233);
+    margin: 0%;
+}
+ol{
+    width: 720px;;
+    margin: auto;
+}
+li{
+    margin: 35px;
+    font-size: 20px;
+}
+dt{
+    margin: 10px;
+}
+legend{
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.mode{
+    width: 40px;
+    height: 40px;
+    position:relative;
+    left: 150px;
+}
+.dubbel{
+    text-align: center;
+}
