@@ -154,3 +154,14 @@ EasyButton.addEventListener("click", () => {
     })
     document.querySelector("#Knappar").appendChild(Refresh)
 })
+//dark light mode
+let Mode = document.querySelector(".mode")
+Mode.innerText = "🌞"
+Mode.addEventListener("click", (e) => {
+    if (e.target.innerText == "🌞") {
+        e.target.innerText = "🌛"
+    } else {
+        e.target.innerText = "🌞"
+    }
+    document.body.classList.toggle("dark-mode");
+})
